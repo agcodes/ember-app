@@ -1,7 +1,9 @@
-# myapp
+# ember-app
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+
+This project shows how to use Ember js but it is not affiliated with offical ember organization.
+
 
 ## Prerequisites
 
@@ -10,13 +12,6 @@ You will need the following things properly installed on your computer.
 * [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/) (with npm)
 * [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
-
-## Installation
-
-* `git clone <repository-url>` this repository
-* `cd myapp`
-* `npm install`
 
 ## Running / Development
 
@@ -27,16 +22,6 @@ You will need the following things properly installed on your computer.
 ### Code Generators
 
 Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Linting
-
-* `npm run lint`
-* `npm run lint:fix`
 
 ### Building
 
