@@ -4,6 +4,8 @@ This README outlines the details of collaborating on this Ember application.
 
 This project shows how to use Ember js but it is not affiliated with offical ember organization.
 
+The application uses octane version, glimmer components and ember engines.
+
 
 ## Prerequisites
 
