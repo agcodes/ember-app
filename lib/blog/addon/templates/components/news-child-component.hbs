@@ -1,0 +1,19 @@
+<div class='card m-4'>
+  <div class='card-body'>
+    <p>
+      blog/news-child-component template
+    </p>
+
+
+    <div>
+      <button
+        class='btn btn-outline-secondary'
+        role='button'
+        type='button'
+        {{on 'click' (fn this.sendAction @event)}}
+      >
+        Send action
+      </button>
+    </div>
+  </div>
+</div>

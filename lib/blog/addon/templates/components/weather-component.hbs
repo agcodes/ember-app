@@ -16,15 +16,6 @@
       Refresh temperature (random)
     </button>
 
-    <div class='card m-4'>
-      <div class='card-body'>
-        <p>
-          blog/weather-child-component template
-        </p>
-        <p>
-          Tracked temperature from parent : {{this.temperature}}
-        </p>
-      </div>
-    </div>
+    <WeatherChildComponent @temperature={{this.temperature}}/>
   </div>
 </div>
