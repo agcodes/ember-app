@@ -13,7 +13,7 @@
       type='button'
       {{on 'click' (fn this.refresh @event)}}
     >
-      Refresh temperature (random)
+      Refresh temperature (random) - send to child
     </button>
 
     <WeatherChildComponent @temperature={{this.temperature}}/>
